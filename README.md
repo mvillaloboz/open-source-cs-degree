@@ -24,8 +24,16 @@ The following document outlines free, online resources equivalent to a 1-year tr
 
 **Computer Architecture**
 
-> [Princeton Coursera](https://www.coursera.org/course/comparch) 
+> [Princeton Coursera](https://www.coursera.org/course/comparch)   
 > *or*  
 > [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) 
+
+**UX Design**
+
+> [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
+
+**Intro to Web Development**
+
+> [Udacity CS253](https://www.udacity.com/course/web-development--cs253)  
 
 
