@@ -36,4 +36,55 @@ The following document outlines free, online resources equivalent to a 1-year tr
 
 > [Udacity CS253](https://www.udacity.com/course/web-development--cs253)  
 
+### Term 3
+
+**Introduction to Databases**
+
+> [Stanford DB](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)  
+> *or*  
+> [MIT 6.830](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)  
+
+**Operating Systems**
+
+> [UC Berkeley CS162](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp)  
+> *or*  
+> [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/) 
+
+**Algorithms**
+
+> [Stanford Coursera](https://www.coursera.org/course/algo)  
+> *or*  
+> [Princeton Coursera](https://www.coursera.org/course/algs4partI)  
+> *or*  
+> [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)  
+
+**Software Engineering**
+
+> [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
+
+### Term 4
+
+**Computer Networking**
+
+> [Stanford Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)  
+> *or*  
+> [Udacity UD436](https://www.udacity.com/course/computer-networking--ud436)  
+
+**System Engineering**
+
+> [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
+
+**Mobile Software Development**
+
+> [University of Maryland Coursera](https://www.coursera.org/course/androidpart1) *(Note: Android platform)*  
+> *or*  
+> [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
+
+
+
+
+
+
+
+
 
