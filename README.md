@@ -15,3 +15,17 @@ The following document outlines free, online resources equivalent to a 1-year tr
 **Discrete Mathematics for Computer Science**
 
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
+
+### Term 2
+
+**Data Structures**
+
+> [MIT 6.851](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)  
+
+**Computer Architecture**
+
+> [Princeton Coursera](https://www.coursera.org/course/comparch) 
+> *or*  
+> [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) 
+
+
