@@ -8,9 +8,9 @@ The following document outlines free, online resources equivalent to a 1-year tr
 
 > [Stanford CS101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) *(Note: teaches in Javascript)*  
 > *or*  
-> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
-> *or*  
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
+> *or*  
+> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 
 **Discrete Mathematics for Computer Science**
 
@@ -30,7 +30,7 @@ The following document outlines free, online resources equivalent to a 1-year tr
 
 **UX Design**
 
-> [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
+> [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) *(Note: Android platform)*  
 
 **Intro to Web Development**
 
