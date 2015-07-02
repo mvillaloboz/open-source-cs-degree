@@ -27,13 +27,15 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099)  
 > *or*    
 > [MIT 6.851](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)  
+> *or*  
 > [UC Berkeley CS61b](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
 **Computer Architecture**
 
 > [Princeton Coursera](https://www.coursera.org/course/comparch)   
 > *or*  
-> [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) 
+> [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/)  
+> *or*  
 > [UC Berkeley CS61c](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
 **UX Design**
