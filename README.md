@@ -80,6 +80,12 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
 
+### Term 5
+
+** Programming Languages Theory**
+
+< [Brown University CS173] (https://cs.brown.edu/courses/cs173/2012/OnLine/)
+
 
 
 
