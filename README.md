@@ -16,8 +16,8 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Discrete Mathematics for Computer Science**
 
-> [UC Berkeley CS70](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
-> *or*
+> [UC Berkeley CS70](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> *or*  
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 
 ### Term 2
@@ -54,6 +54,10 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/) 
 
+**Programming Languages Theory**
+
+> [Brown University CS173](https://cs.brown.edu/courses/cs173/2012/OnLine/)
+
 **Algorithms**
 
 > [Stanford Coursera](https://www.coursera.org/course/algo)  
@@ -62,11 +66,15 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)  
 
+### Term 4
+
+**System Engineering**
+
+> [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
+
 **Software Engineering**
 
 > [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
-
-### Term 4
 
 **Computer Networking**
 
@@ -74,19 +82,11 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Udacity UD436](https://www.udacity.com/course/computer-networking--ud436)  
 
-**System Engineering**
-
-> [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
-
 **Mobile Software Development**
 
 > [University of Maryland Coursera](https://www.coursera.org/course/androidpart1) *(Note: Android platform)*  
 > *or*  
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
-
-**Programming Languages Theory**
-
-> [Brown University CS173](https://cs.brown.edu/courses/cs173/2012/OnLine/)
 
 
 
