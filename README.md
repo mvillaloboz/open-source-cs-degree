@@ -82,9 +82,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 ### Term 5
 
-** Programming Languages Theory**
+**Programming Languages Theory**
 
-< [Brown University CS173] (https://cs.brown.edu/courses/cs173/2012/OnLine/)
+> [Brown University CS173] (https://cs.brown.edu/courses/cs173/2012/OnLine/)
 
 
 
