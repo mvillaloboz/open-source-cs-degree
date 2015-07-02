@@ -80,7 +80,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Software Engineering**
 
-> [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
+> [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)
+> *or*
+> [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
 **Computer Networking**
 
@@ -94,9 +96,18 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
 
+### Term 5
 
+**Programming Languages & Compilers**
 
+> [UC Berkeley CS164](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> *or*
+> [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
+**Artificial Intelligence**
 
+> [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+> *or*
+> [UC Berkeley CS188](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
 
