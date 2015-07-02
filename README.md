@@ -12,7 +12,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 > *or*  
-> [UC Berkeley CS61x](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> [UC Berkeley CS61a](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
 **Discrete Mathematics for Computer Science**
 
@@ -27,12 +27,14 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099)  
 > *or*    
 > [MIT 6.851](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)  
+> [UC Berkeley CS61b](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
 **Computer Architecture**
 
 > [Princeton Coursera](https://www.coursera.org/course/comparch)   
 > *or*  
 > [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) 
+> [UC Berkeley CS61c](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
 **UX Design**
 
@@ -89,8 +91,6 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [University of Maryland Coursera](https://www.coursera.org/course/androidpart1) *(Note: Android platform)*  
 > *or*  
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
-
-
 
 
 
