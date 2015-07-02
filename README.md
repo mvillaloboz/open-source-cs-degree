@@ -1,6 +1,6 @@
-# The Open Source Computer Science Degree
+# The Open-Source Computer Science Degree
 
-The following document outlines free, online resources equivalent to a 1-year track Computer Science degree.
+Inspired by [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go), this project aims to do the same for an undergraduate Computer Science degree. The following document outlines free, online courses from top schools like Harvard, Stanford and MIT. The focus is on the core Computer Science courses, liberal arts or "GenEd" courses have been omitted. The groupings by Term are meant to pace and structure the course according to a typical Computer Science track at a college or university.
 
 ### Term 1
 
