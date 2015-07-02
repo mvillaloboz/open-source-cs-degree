@@ -22,9 +22,13 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 ### Term 2
 
-**Data Structures**
+**Algorithms**
 
-> [MIT 6.851](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)  
+> [Stanford Coursera](https://www.coursera.org/course/algo)  
+> *or*  
+> [Princeton Coursera](https://www.coursera.org/course/algs4partI)  
+> *or*  
+> [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)  
 
 **Computer Architecture**
 
@@ -58,13 +62,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [Brown University CS173](https://cs.brown.edu/courses/cs173/2012/OnLine/)
 
-**Algorithms**
+**Advanced Data Structures**
 
-> [Stanford Coursera](https://www.coursera.org/course/algo)  
-> *or*  
-> [Princeton Coursera](https://www.coursera.org/course/algs4partI)  
-> *or*  
-> [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)  
+> [MIT 6.851](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) 
 
 ### Term 4
 
