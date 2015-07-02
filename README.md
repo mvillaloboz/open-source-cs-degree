@@ -11,9 +11,13 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
+> *or*  
+> [UC Berkeley CS61x](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
 **Discrete Mathematics for Computer Science**
 
+> [UC Berkeley CS70](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> *or*
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 
 ### Term 2
@@ -80,11 +84,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
 
-### Term 5
+**Programming Languages Theory**
 
-** Programming Languages Theory**
-
-< [Brown University CS173] (https://cs.brown.edu/courses/cs173/2012/OnLine/)
+> [Brown University CS173](https://cs.brown.edu/courses/cs173/2012/OnLine/)
 
 
 
