@@ -20,8 +20,6 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 
-### Term 2
-
 **Data Structures**
 
 > [Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099)  
@@ -38,17 +36,17 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [UC Berkeley CS61c](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 
+### Term 2
+
 **UX Design**
 
 > [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) *(Note: Android platform)*  
 
 **Intro to Web Development**
 
-> [Udacity CS253](https://www.udacity.com/course/web-development--cs253)  
+> [Udacity CS253](https://www.udacity.com/course/web-development--cs253) 
 
-### Term 3
-
-**Introduction to Databases**
+**Intro to Databases**
 
 > [Stanford DB](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)  
 > *or*  
@@ -60,6 +58,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/) 
 
+
+### Term 3
+
 **Programming Languages Theory**
 
 > [Brown University CS173](https://cs.brown.edu/courses/cs173/2012/OnLine/)
@@ -70,9 +71,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Princeton Coursera](https://www.coursera.org/course/algs4partI)  
 > *or*  
-> [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)  
-
-### Term 4
+> [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215) 
 
 **System Engineering**
 
@@ -82,7 +81,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)
 > *or*
-> [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science) 
+
+### Term 4
 
 **Computer Networking**
 
@@ -96,18 +97,16 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
 
-### Term 5
-
 **Programming Languages & Compilers**
 
-> [UC Berkeley CS164](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
-> *or*
+> [UC Berkeley CS164](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> *or*  
 > [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
 **Artificial Intelligence**
 
-> [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
-> *or*
+> [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)  
+> *or*  
 > [UC Berkeley CS188](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
 
