@@ -19,6 +19,8 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [UC Berkeley CS70](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
 > *or*  
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+> *or*  
+> [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/index.html)  
 
 **Data Structures**
 
@@ -107,3 +109,6 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)  
 > *or*  
 > [UC Berkeley CS188](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+
+**Parallel Computing**
+> [Carnegie Mellon 15-418](http://15418.courses.cs.cmu.edu/spring2015/)
