@@ -89,10 +89,11 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*  
 
 
+### Term 6
 
+**Web Development**
 
-
-
+> [The Odin Project](http://www.theodinproject.com/)
 
 
 
