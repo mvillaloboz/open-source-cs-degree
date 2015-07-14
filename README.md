@@ -60,6 +60,12 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 
+**Computer Graphics**
+
+> [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)  
+> *or*  
+> [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+
 ### Term 3
 
 **Programming Languages Theory**
@@ -83,6 +89,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)  
 > *or*  
 > [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+
+**Principles of Computing**
+> [Rice University Coursera](https://www.coursera.org/course/principlescomputing1)
 
 ### Term 4
 
