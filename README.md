@@ -26,8 +26,6 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099)  
 > *or*  
-> [MIT 6.851](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)  
-> *or*  
 > [UC Berkeley CS61B](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
 **Computer Architecture**
