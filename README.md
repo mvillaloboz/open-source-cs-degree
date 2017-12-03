@@ -129,4 +129,4 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Machine Learning**
 
-> [Carnegie Mellon 10-601](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
+> [Carnegie Mellon 10-806](http://www.cs.cmu.edu/~ninamf/courses/806/)
