@@ -93,6 +93,8 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)  
 > *or*  
 > [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> *or*
+> [Harvard CS164](http://cs164.tv/2014/spring/)
 
 **Principles of Computing**
 > [Rice University Coursera](https://www.coursera.org/course/principlescomputing1)
