@@ -82,18 +82,18 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
 
-**Introduction to Embedded Systems and Real-Time Systems**
+**Intro to Embedded Systems and Real-Time Systems**
 
-> [UC Riverside CS120B] (http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)  
+> [UC Riverside CS120B](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)  
 > *and/or*  
-> [UC Riverside CS122A] (http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
+> [UC Riverside CS122A](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
 
 **Software Engineering**
 
 > [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)  
 > *or*  
-> [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
-> *or*
+> [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> *or*  
 > [Harvard CS164](http://cs164.tv/2014/spring/)
 
 **Principles of Computing**
