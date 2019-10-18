@@ -115,7 +115,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Programming Languages & Compilers**
 
-> [UC Berkeley CS164](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> [UC Berkeley CS164](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs164-spring2012-berkeley.html)  
 > *or*  
 > [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
@@ -123,7 +123,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)  
 > *or*  
-> [UC Berkeley CS188](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS188](http://ai.berkeley.edu/lecture_videos.html)
 
 **Parallel Computing**
 
