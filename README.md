@@ -10,7 +10,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
 > *or*
-> [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*
+> [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*  
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 > *or*  
