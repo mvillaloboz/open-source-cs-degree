@@ -6,17 +6,19 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Intro to Computer Science**
 
-> [Stanford CS101](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) *(Note: teaches in JavaScript)*  
+> [Stanford CS101](https://web.stanford.edu/class/cs101/) *(Note: teaches in JavaScript)*  
 > *or*  
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
+> *or*
+> [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*  
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 > *or*  
-> [UC Berkeley CS61A](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS61A](https://cs61a.org/)
 
 **Discrete Mathematics for Computer Science**
 
-> [UC Berkeley CS70](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> [UC Berkeley CS70](https://www.eecs70.org/)  
 > *or*  
 > [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 > *or*  
@@ -24,9 +26,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Data Structures**
 
-> [Stanford CS106B](http://web.stanford.edu/class/cs106b/lectures.shtml)  
+> [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
 > *or*  
-> [UC Berkeley CS61B](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 
 **Computer Architecture**
 
@@ -34,7 +36,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/)  
 > *or*  
-> [UC Berkeley CS61C](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
 
 ### Term 2
 
@@ -48,13 +50,15 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Intro to Databases**
 
-> [Stanford DB](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)  
+> [Stanford DB](https://cs.stanford.edu/people/widom/DB-mooc.html)  
 > *or*  
 > [MIT 6.830](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
 
 **Operating Systems**
 
-> [UC Berkeley CS162](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp)  
+> [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp) 
+> *or*
+> [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html)
 > *or*  
 > [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 
@@ -92,7 +96,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)  
 > *or*  
-> [UC Berkeley CS169](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS169](https://inst.eecs.berkeley.edu/~cs169/archives.html)
 > *or*
 > [Harvard CS164](http://cs164.tv/2014/spring/)
 
@@ -115,7 +119,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Programming Languages & Compilers**
 
-> [UC Berkeley CS164](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)  
+> [UC Berkeley CS164](https://inst.eecs.berkeley.edu/~cs164/archives.html)  
 > *or*  
 > [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
 
@@ -123,7 +127,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)  
 > *or*  
-> [UC Berkeley CS188](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
+> [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/archives.html)
 
 **Parallel Computing**
 
