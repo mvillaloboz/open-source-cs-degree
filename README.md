@@ -88,9 +88,9 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Introduction to Embedded Systems and Real-Time Systems**
 
-> [UC Riverside CS120B] (http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)  
+> [UC Riverside CS120B](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)  
 > *and/or*  
-> [UC Riverside CS122A] (http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
+> [UC Riverside CS122A](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
 
 **Software Engineering**
 
