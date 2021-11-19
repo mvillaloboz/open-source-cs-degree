@@ -84,7 +84,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **System Engineering**
 
-> [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
+> [MIT 6.033](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 
 **Introduction to Embedded Systems and Real-Time Systems**
 
