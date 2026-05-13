@@ -1,0 +1,7 @@
+# Sites that block bot user agents but work fine in browsers.
+# Add specific URLs here as needed. Use regex.
+
+# LinkedIn, Twitter/X, Facebook often 999/403 for bots
+^https?://(www\.)?linkedin\.com/
+^https?://(www\.)?twitter\.com/
+^https?://(www\.)?x\.com/

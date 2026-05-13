@@ -1,0 +1,40 @@
+name: Broken link
+description: Report a course link in the README that no longer works.
+title: "[broken link] "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Which course / section?
+      placeholder: e.g. Term 2 → Operating Systems → UC Berkeley CS162
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Current (broken) URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: What happens when you visit it?
+      options:
+        - 404 / page not found
+        - Redirects somewhere irrelevant
+        - Now requires login / paywall
+        - Loads but content is gone or replaced
+        - Other (describe below)
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement URL (if any)
+      placeholder: https://...
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes

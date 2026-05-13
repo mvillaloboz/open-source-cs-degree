@@ -1,0 +1,47 @@
+name: Course suggestion
+description: Suggest a new course or a replacement for an existing one.
+title: "[course] "
+labels: ["course-suggestion"]
+body:
+  - type: input
+    id: course
+    attributes:
+      label: Course name and institution
+      placeholder: e.g. CMU 15-445 Database Systems
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Course URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Which term/section does it belong in?
+      placeholder: e.g. Term 2 → Intro to Databases
+    validations:
+      required: true
+  - type: checkboxes
+    id: criteria
+    attributes:
+      label: Criteria
+      description: See CONTRIBUTING.md for the full rubric.
+      options:
+        - label: Free to audit (no paywall to access lectures)
+          required: true
+        - label: From a recognized institution
+          required: true
+        - label: Lecture videos and/or notes are publicly available
+          required: true
+        - label: Updated within the last ~5 years, or is a canonical "classic"
+          required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this a good addition?
+      placeholder: What makes this course worth including over the existing options?
+    validations:
+      required: true
