@@ -43,7 +43,6 @@ jobs:
             --cache
             --max-cache-age 1w
             --accept 200,204,206,403,429
-            --exclude-mail
             './**/*.md'
           fail: false
 
