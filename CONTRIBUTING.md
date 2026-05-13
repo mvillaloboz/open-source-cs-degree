@@ -23,7 +23,7 @@ Open an issue using the "Course suggestion" template, or send a PR directly if y
 
 ## Submitting a PR
 
-1. Fork the repo and create a branch from `master`.
+1. Fork the repo and create a branch from `main`.
 2. Make your change. Keep PRs **small and focused** — one course change per PR is ideal.
 3. The link checker runs automatically on every PR. If it flags your link, please fix it before requesting review.
 4. In the PR description, link to the issue you're addressing (if any) and explain why the change is an improvement.
