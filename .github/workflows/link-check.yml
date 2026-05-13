@@ -48,7 +48,7 @@ jobs:
           fail: false
 
       - name: Open issue on failure
-        if: env.lychee_exit_code != '0' && github.event_name == 'schedule'
+        if: steps.lychee.outputs.exit_code != '0' && github.event_name == 'schedule'
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: 'Link check report ${{ steps.lychee.outputs.runtime }}'
@@ -58,7 +58,7 @@ jobs:
             automated
 
       - name: Fail workflow if links broken (PR/push only)
-        if: env.lychee_exit_code != '0' && github.event_name != 'schedule'
+        if: steps.lychee.outputs.exit_code != '0' && github.event_name != 'schedule'
         run: |
           echo "::error::Link check found broken links. See the lychee output above."
           exit 1
