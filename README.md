@@ -2,17 +2,15 @@
 
 Inspired by [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go), this project aims to do the same for an undergraduate Computer Science degree. The following document outlines free online courses from top schools like Harvard, Stanford and MIT. The groupings by Term are meant to pace and structure the course according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses; liberal arts or "GenEd" courses have been omitted.
 
+> **Note:** Many of the courses below are long-running and the canonical URL may change between offerings. If you find a broken link, please [open an issue](https://github.com/mvillaloboz/open-source-cs-degree/issues/new/choose) or send a PR — see [CONTRIBUTING.md](CONTRIBUTING.md). A weekly automated link check runs against this README.
+
 ### Term 1
 
 **Intro to Computer Science**
 
-> [Stanford CS101](https://web.stanford.edu/class/cs101/) *(Note: teaches in JavaScript)*  
+> [Stanford CS106A](https://web.stanford.edu/class/cs106a/) *(Note: teaches in Python)*  
 > *or*  
-> [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
-> *or*
-> [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*  
-> *or*  
-> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
+> [Harvard CS50x](https://cs50.harvard.edu/x/)  
 > *or*  
 > [UC Berkeley CS61A](https://cs61a.org/)
 
@@ -20,53 +18,55 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [UC Berkeley CS70](https://www.eecs70.org/)  
 > *or*  
-> [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
+> [MIT 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)  
 > *or*  
-> [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/index.html)  
+> [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/)
 
 **Data Structures**
 
 > [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
 > *or*  
-> [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+> [UC Berkeley CS61B](https://sp24.datastructur.es/)
 
 **Computer Architecture**
 
-> [Princeton Coursera](https://www.coursera.org/course/comparch)  
+> [Princeton Coursera](https://www.coursera.org/learn/comparch)  
 > *or*  
-> [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/)  
+> [MIT 6.823](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)  
 > *or*  
-> [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
+> [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/)
 
 ### Term 2
 
 **UX Design**
 
-> [Udacity UD849](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) *(Note: Android platform)*
+> [Interaction Design Foundation — UX Design Fundamentals](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
 
 **Intro to Web Development**
 
-> [Udacity CS253](https://www.udacity.com/course/web-development--cs253)
+> [The Odin Project — Full Stack](https://www.theodinproject.com/)  
+> *or*  
+> [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 **Intro to Databases**
 
-> [Stanford DB](https://cs.stanford.edu/people/widom/DB-mooc.html)  
+> [Stanford Databases (edX)](https://www.edx.org/school/stanfordonline) *(search "Databases: ...")*  
 > *or*  
-> [MIT 6.830](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
+> [CMU 15-445 Database Systems](https://15445.courses.cs.cmu.edu/)  
+> *or*  
+> [MIT 6.830](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/)
 
 **Operating Systems**
 
-> [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp) 
-> *or*
-> [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html)
+> [UC Berkeley CS162](https://cs162.org/)  
 > *or*  
-> [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
+> [MIT 6.828](https://pdos.csail.mit.edu/6.828/)
 
 **Computer Graphics**
 
-> [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)  
+> [MIT 6.837](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/)  
 > *or*  
-> [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+> [UC San Diego CSE 167x (edX)](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)
 
 ### Term 3
 
@@ -76,63 +76,72 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Algorithms**
 
-> [Stanford Coursera](https://www.coursera.org/course/algo)  
+> [Stanford Algorithms Specialization (Coursera)](https://www.coursera.org/specializations/algorithms)  
 > *or*  
-> [Princeton Coursera](https://www.coursera.org/course/algs4partI)  
+> [Princeton Algorithms Part I (Coursera)](https://www.coursera.org/learn/algorithms-part1)  
 > *or*  
-> [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)  
+> [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 **System Engineering**
 
-> [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
+> [MIT 6.033](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
-**Introduction to Embedded Systems and Real-Time Systems**
+**Intro to Embedded Systems and Real-Time Systems**
 
-> [UC Riverside CS120B] (http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)  
-> *and/or*  
-> [UC Riverside CS122A] (http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
+> [UT Austin — Embedded Systems (edX)](https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-multi-threaded-interfacing)
 
 **Software Engineering**
 
-> [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)  
+> [MIT 6.005 / 6.031 — Software Construction](https://ocw.mit.edu/courses/6-031-software-construction-spring-2017/)  
 > *or*  
-> [UC Berkeley CS169](https://inst.eecs.berkeley.edu/~cs169/archives.html)
-> *or*
-> [Harvard CS164](http://cs164.tv/2014/spring/)
+> [UC Berkeley CS169](https://inst.eecs.berkeley.edu/~cs169/)
 
 **Principles of Computing**
-> [Rice University Coursera](https://www.coursera.org/course/principlescomputing1)
+
+> [Rice University — Principles of Computing (Coursera)](https://www.coursera.org/learn/principles-of-computing-1)
 
 ### Term 4
 
 **Computer Networking**
 
-> [Stanford Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)  
+> [Stanford CS144 Introduction to Computer Networking](https://cs144.github.io/)  
 > *or*  
-> [Udacity UD436](https://www.udacity.com/course/computer-networking--ud436)
+> [UMass CS 453 / Kurose & Ross companion videos](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 **Mobile Software Development**
 
-> [University of Maryland Coursera](https://www.coursera.org/course/androidpart1) *(Note: Android platform)*  
+> [Stanford CS193p — Developing Apps for iOS (SwiftUI)](https://cs193p.sites.stanford.edu/)  
 > *or*  
-> [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) *(Note: iOS platform)*
+> [Google — Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 
 **Programming Languages & Compilers**
 
-> [UC Berkeley CS164](https://inst.eecs.berkeley.edu/~cs164/archives.html)  
+> [Stanford CS143 Compilers (edX archive)](https://www.edx.org/learn/computer-science/stanford-university-compilers)  
 > *or*  
-> [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
+> [MIT 6.035](https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/)
 
 **Artificial Intelligence**
 
-> [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)  
+> [MIT 6.034](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)  
 > *or*  
-> [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/archives.html)
+> [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/)
 
 **Parallel Computing**
 
-> [Carnegie Mellon 15-418](http://15418.courses.cs.cmu.edu/spring2015/)
+> [Carnegie Mellon 15-418 Parallel Computer Architecture and Programming](http://www.cs.cmu.edu/~418/)
 
 **Machine Learning**
 
-> [Carnegie Mellon 10-806](http://www.cs.cmu.edu/~ninamf/courses/806/)
+> [Stanford CS229 Machine Learning](https://cs229.stanford.edu/)  
+> *or*  
+> [Carnegie Mellon 10-601 Introduction to Machine Learning](https://www.cs.cmu.edu/~mgormley/courses/10601/)
+
+---
+
+## Contributing
+
+Spotted a broken link, found a better course, or have suggestions for the curriculum? Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+This curriculum is published under the [MIT License](LICENSE). Course materials linked from this list are owned by their respective institutions and are subject to their own licenses.
