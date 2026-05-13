@@ -92,7 +92,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Software Engineering**
 
-> [MIT 6.005 / 6.031 — Software Construction](https://ocw.mit.edu/courses/6-031-software-construction-spring-2017/)  
+> [MIT 6.005 — Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/)  
 > *or*  
 > [UC Berkeley CS169](https://inst.eecs.berkeley.edu/~cs169/)
 
