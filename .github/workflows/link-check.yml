@@ -2,7 +2,7 @@ name: Link check
 
 on:
   push:
-    branches: [master, main]
+    branches: [main]
     paths:
       - '**.md'
       - '.github/workflows/link-check.yml'
