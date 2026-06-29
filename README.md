@@ -40,13 +40,13 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **UX Design**
 
-> [Interaction Design Foundation — UX Design Fundamentals](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+> [Interaction Design Foundation — UX Design Fundamentals](https://ixdf.org/courses/user-experience-the-beginner-s-guide)
 
 **Intro to Web Development**
 
 > [The Odin Project — Full Stack](https://www.theodinproject.com/)  
 > *or*  
-> [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+> [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
 **Intro to Databases**
 
@@ -110,7 +110,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Mobile Software Development**
 
-> [Stanford CS193p — Developing Apps for iOS (SwiftUI)](https://cs193p.sites.stanford.edu/)  
+> [Stanford CS193p — Developing Apps for iOS (SwiftUI)](https://cs193p.stanford.edu/)  
 > *or*  
 > [Google — Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 
