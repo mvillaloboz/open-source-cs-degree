@@ -124,7 +124,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 6.034](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)  
 > *or*  
-> [UC Berkeley CS188](https://ai.berkeley.edu/)
+> [UC Berkeley CS188 (lecture videos)](https://www.youtube.com/playlist?list=PLtFb24pIhyHv6d6OqDr_tVaygbj86mCGA)
 
 **Parallel Computing**
 
