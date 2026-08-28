@@ -34,7 +34,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [MIT 6.823](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)  
 > *or*  
-> [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/)
+> [UC Berkeley CS61C](https://cs61c.org/)
 
 ### Term 2
 
@@ -94,7 +94,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 6.005 — Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/)  
 > *or*  
-> [UC Berkeley CS169](https://inst.eecs.berkeley.edu/~cs169/)
+> [UC Berkeley CS169](https://saasbook.info/)
 
 **Principles of Computing**
 
@@ -124,7 +124,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 > [MIT 6.034](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)  
 > *or*  
-> [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/)
+> [UC Berkeley CS188](https://ai.berkeley.edu/)
 
 **Parallel Computing**
 
