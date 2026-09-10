@@ -104,7 +104,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 
 **Computer Networking**
 
-> [Stanford CS144 Introduction to Computer Networking](https://cs144.github.io/)  
+> [Stanford CS144 Introduction to Computer Networking (lecture videos)](https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)  
 > *or*  
 > [UMass CS 453 / Kurose & Ross companion videos](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
